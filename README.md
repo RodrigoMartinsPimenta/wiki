@@ -1,3 +1,3 @@
 # Ficheiro README
 
-UM exempli de um ficheiro README
+Um exemplo de um ficheiro README
